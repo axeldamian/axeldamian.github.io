@@ -6,7 +6,7 @@
   "scripts":{
     "build":"react-scripts build",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build-r https://github.com/axeldamian/axeldamian.github.io.git"
   }
 }
 
